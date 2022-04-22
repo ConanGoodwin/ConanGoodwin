@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ConanGoodwin
 - 👀 I’m interested na CONQUISTA!!!!
-- 🌱 I’m currently learning Desenvolvimento Web FullStack
+- 🌱 I’m currently learning Desenvolvimento Web FullStack pela Trybe
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
