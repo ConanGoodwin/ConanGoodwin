@@ -1,6 +1,6 @@
 /* o fs é quem irá ler o arquivo e gerar um novo,
 ele vem por padrão no node, então não se preocupe */
-const fs = require('fs')
+import 'fs';
 
 // esta parte lê o arquivo "README_BASE"
 fs.readFile('teste.md', 'utf-8', (err, data) => {
