@@ -12,3 +12,8 @@ You can click the Preview link to take a look at your changes.
 ---> -->
 
 em teste
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
