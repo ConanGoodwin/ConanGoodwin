@@ -99,8 +99,6 @@ Atualmente, sou formado em desenvolvimento web full-stack na Trybe
 
 -----
 
-- 👀 I’m interested na CONQUISTA!!!!
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:    
  https://www.linkedin.com/in/conangoodwin   
  conan_goodwin@hotmail.com
