@@ -1,6 +1,10 @@
+-----
+
 <div>
 <img align="center" alt="Header" src="https://github.com/ConanGoodwin/ConanGoodwin/blob/main/src/images/capa003.jpeg?raw=true"/>
 </div>
+
+-----
 
 - 👋 Hi, I’m @ConanGoodwin
 - 👀 I’m interested na CONQUISTA!!!!
