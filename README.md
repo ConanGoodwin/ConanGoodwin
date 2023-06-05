@@ -45,6 +45,83 @@ Atualmente, sou formado em desenvolvimento web full-stack na Trybe
 
 -----
 
+-----
+
+<div>
+
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Linguagens e ferramentas:
+
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/bash.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/python.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/c.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/cpp.svg"/></a></code>
+&nbsp; 
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/csharp.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/java.png"/></a></code>
+&nbsp; 
+<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/javafx.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/primefaces.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.playframework.com/" target="_blank"><img width="48" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/play.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/jenkins.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/html.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/css.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/js.png"/></a></code>
+&nbsp; 
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/react.png"/></a></code>
+&nbsp; 
+<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vbs.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.php.net/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/php.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mysql.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/postgresql.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mongodb.png"/></a></code>
+&nbsp; 
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/nodejs.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.lua.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/lua.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/docker.png"/></a></code>
+&nbsp; 
+<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/aws.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/heroku.png"/></a></code>
+&nbsp; 
+<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dotnet.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/postman.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.soapui.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/soap.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/pc.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/eclipse.png"/></a></code>
+&nbsp; 
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png"/></a></code>
+</div>
+
+-----
+
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ConanGoodwin&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ConanGoodwin&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ConanGoodwin&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ConanGoodwin&theme=github_dark"/>
+</div>
+
+-----
 
 - 👀 I’m interested na CONQUISTA!!!!
 - 💞️ I’m looking to collaborate on ...
