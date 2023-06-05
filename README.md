@@ -33,9 +33,20 @@
 
 -----
 
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Sobre mim:
+
+<div align="justify">
+Comecei a formação acadêmica no segundo grau técnico de Processamento de dados em paralelo com atuação profissional na área de produção cultural, trabalhando de assistente de produção a relações publicas, e posteriormente ao ingressar na faculdade de Ciências da Computação, após estágios em TI, fui contratado e trabalhei por 11 anos em uma empresa de pesquisa de mercado na área de petróleo.
+
+Trabalhei neste período em diversas funções/setores tais como Setor de suporte a banco de dados, redes e periféricos; suporte e manutenção de micro; auditoria interna de dados coletados; Gerente Geral e Gerente de Campo da área de pesquisa; Desenvolvedor de Pesquisa, Planilhas e Relatórios; Programador Junior.
+
+Atualmente, sou formado em desenvolvimento web full-stack na Trybe
+</div>
+
+-----
+
 
 - 👀 I’m interested na CONQUISTA!!!!
-- 🌱 I’m currently learning Desenvolvimento Web FullStack pela Trybe
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:    
  https://www.linkedin.com/in/conangoodwin   
