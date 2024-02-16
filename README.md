@@ -12,7 +12,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/ConanGoodwin" target="_blank"><img src="[https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/ConanGoodwin" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/raw/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:conan_goodwin@hotmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
