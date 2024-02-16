@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/ConanGoodwin/ConanGoodwin/blob/main/src/images/capa003.jpeg?raw=true"/>
+<img align="center" alt="Header" height="180" width="100%" src="https://github.com/ConanGoodwin/ConanGoodwin/blob/main/src/images/capa003.jpeg?raw=true"/>
 </div>
 
 -----
