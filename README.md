@@ -86,6 +86,9 @@ Atualmente, sou formado em desenvolvimento web full-stack na Trybe
 <code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/raw/main/img/eclipse.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/raw/main/img/vs.png?raw=true"/></a></code>
+<code><a href="https://jestjs.io/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/raw/main/img/jest.png?raw=true"/></a></code>
+<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/raw/main/img/aws.png?raw=true"/></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/raw/main/img/git.png?raw=true"/></a></code>
 </div>
 
 -----
